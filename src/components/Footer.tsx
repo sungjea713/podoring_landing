@@ -55,7 +55,7 @@ const Footer = () => {
               <ul className="space-y-2 text-sm text-gray-600">
                 <li>
                   <a
-                    href="https://thunder-stem-d61.notion.site/WEBBER-17dffb2f1abc80c6b00ac47b8611e41a"
+                    href="https://www.webber-ai.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-wine-600 transition-colors"

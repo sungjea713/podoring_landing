@@ -27,7 +27,7 @@ const Navbar = () => {
   const navLinks = [
     { id: 'features', label: t.nav.features, type: 'scroll' as const },
     { id: 'pricing', label: t.nav.pricing, type: 'scroll' as const },
-    { id: 'about', label: t.nav.about, type: 'external' as const, url: 'https://thunder-stem-d61.notion.site/WEBBER-17dffb2f1abc80c6b00ac47b8611e41a' },
+    { id: 'about', label: t.nav.about, type: 'external' as const, url: 'https://www.webber-ai.com' },
     { id: 'contact', label: t.nav.contact, type: 'scroll' as const },
   ];
 
