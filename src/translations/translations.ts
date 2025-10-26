@@ -27,7 +27,7 @@ export const translations = {
       items: [
         {
           title: '사진 한 장으로 끝',
-          description: '와인 라벨을 촬영하면 Gemini AI가 60초 만에 모든 정보를 자동으로 채워줍니다. 수작업 입력은 이제 그만!',
+          description: '와인 라벨을 촬영하면 AI가 모든 정보를 자동으로 채워줍니다. 수작업 입력은 이제 그만!',
         },
         {
           title: '선반별, 점포별 실시간 관리',
@@ -48,7 +48,7 @@ export const translations = {
         },
         {
           title: 'AI 자동 분석',
-          description: 'Gemini AI가 와인명, 빈티지, 가격 등을 자동 추출 (약 60초)',
+          description: 'AI가 와인명, 빈티지, 가격 등을 자동 추출',
         },
         {
           title: '정보 확인 및 수정',
@@ -185,7 +185,7 @@ export const translations = {
       items: [
         {
           title: 'Just One Photo',
-          description: 'Take a photo of the wine label and Gemini AI automatically fills in all information in 60 seconds. No more manual entry!',
+          description: 'Take a photo of the wine label and AI automatically fills in all information. No more manual entry!',
         },
         {
           title: 'Real-time Management by Shelf & Location',
@@ -206,7 +206,7 @@ export const translations = {
         },
         {
           title: 'AI Auto Analysis',
-          description: 'Gemini AI automatically extracts wine name, vintage, price, etc. (about 60 seconds)',
+          description: 'AI automatically extracts wine name, vintage, price, etc.',
         },
         {
           title: 'Review & Edit Information',
